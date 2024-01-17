@@ -4,16 +4,16 @@ management:
   docChecksum: abbc3a8faac54f76013e5d509a8d11ec
   docVersion: 1.0.0
   speakeasyVersion: internal
-  generationVersion: 2.225.2
-  releaseVersion: 0.9.0
-  configChecksum: 701de7e186c95943fd34c170172e4448
+  generationVersion: 2.234.3
+  releaseVersion: 0.9.1
+  configChecksum: 703f7279c9509ca99348b0a270092ee3
   repoURL: https://github.com/speakeasy-sdks/Test-sample-sdk-78.git
   repoSubDirectory: .
   installationURL: https://github.com/speakeasy-sdks/Test-sample-sdk-78
   published: true
 features:
   go:
-    core: 3.3.0
+    core: 3.3.1
     devContainers: 2.90.0
     errors: 2.81.8
     examples: 2.81.3
