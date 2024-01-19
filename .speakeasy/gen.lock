@@ -4,9 +4,9 @@ management:
   docChecksum: abbc3a8faac54f76013e5d509a8d11ec
   docVersion: 1.0.0
   speakeasyVersion: internal
-  generationVersion: 2.234.3
-  releaseVersion: 0.9.1
-  configChecksum: 703f7279c9509ca99348b0a270092ee3
+  generationVersion: 2.237.2
+  releaseVersion: 0.9.2
+  configChecksum: 39ab87059f1b3da2d38742cff55216bd
   repoURL: https://github.com/speakeasy-sdks/Test-sample-sdk-78.git
   repoSubDirectory: .
   installationURL: https://github.com/speakeasy-sdks/Test-sample-sdk-78
@@ -18,10 +18,10 @@ features:
     errors: 2.81.8
     examples: 2.81.3
     flattening: 2.81.1
-    globalSecurity: 2.82.3
+    globalSecurity: 2.82.4
     globalServerURLs: 2.82.1
     inputOutputModels: 2.83.0
-    methodSecurity: 2.82.1
+    methodSecurity: 2.82.2
     serverIDs: 2.81.1
 generatedFiles:
   - authentication.go
@@ -32,7 +32,6 @@ generatedFiles:
   - speakeasy.go
   - go.mod
   - go.sum
-  - tests/helpers.go
   - pkg/models/sdkerrors/sdkerror.go
   - pkg/types/bigint.go
   - pkg/types/date.go
